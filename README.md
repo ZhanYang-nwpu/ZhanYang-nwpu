@@ -5,7 +5,7 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 #### ⚡My research interests: *vision and language*, *multimodal machine learning*, *AI for remote sensing*, *pattern recognition*, and *data mining*.
 
 #### 🔥News
-- *2023.02*: propose the RSVG task and construct the dataset （accepted by **TGRS**）!
+- *2023.02*: propose the **RSVG** task and construct the **DIOR-RSVG** dataset （accepted by **TGRS**）!
 - 1
 - 2
 
