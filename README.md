@@ -5,6 +5,11 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 #### ⚡My research interests: *vision and language*, *multimodal machine learning*, *AI for remote sensing*, *pattern recognition*, and *data mining*.
 
 #### 🔥News
+- *2023.02*: accepted by **TGRS**!
+- 1
+- 2
+
+
 
 <!--
 **ZhanYang-nwpu/ZhanYang-nwpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
