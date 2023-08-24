@@ -6,8 +6,8 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 
 #### 🔥News
 - *2023.02*: propose the **[RSVG](https://github.com/ZhanYang-nwpu/RSVG-pytorch)** task and construct the **DIOR-RSVG** dataset（accepted by **[TGRS](https://ieeexplore.ieee.org/document/10056343)**）!
-- 1
-- 2
+- *2023.08*: propose a novel PETL framework for RS image-text retrieval task and provide empirical studies.
+- ……
 
 
 
