@@ -5,7 +5,7 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 #### ⚡My research interests: *vision and language*, *multimodal machine learning*, *AI for remote sensing*, *pattern recognition*, and *data mining*.
 
 #### 🔥News
-- *2023.02*: propose the **RSVG** task and construct the **DIOR-RSVG** [dataset](https://drive.google.com/drive/folders/1hTqtYsC6B-m4ED2ewx5oKuYZV13EoJp_)（accepted by **[TGRS](https://ieeexplore.ieee.org/document/10056343)**）!
+- *2023.02*: propose the **[RSVG](https://github.com/ZhanYang-nwpu/RSVG-pytorch)** task and construct the **[DIOR-RSVG](https://drive.google.com/drive/folders/1hTqtYsC6B-m4ED2ewx5oKuYZV13EoJp_)** dataset（accepted by **[TGRS](https://ieeexplore.ieee.org/document/10056343)**）!
 - 1
 - 2
 
