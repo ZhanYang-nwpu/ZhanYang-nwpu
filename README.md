@@ -2,12 +2,13 @@
 
 I am currently pursuing the Ph.D. degree with the **School of Artificial Intelligence, OPtics and ElectroNics** (**iOPEN**), *Northwestern Polytechnical University*, Xi’an, China.
 
-#### ⚡My research interests: *vision and language*, *multimodal machine learning*, *AI for remote sensing*, *pattern recognition*, and *data mining*.
+### ⚡My research interests
+#### *vision and language*, *multimodal machine learning*, *AI for remote sensing*, *pattern recognition*, and *data mining*.
 
 ### 🔥News
 - ……
-- *2023.08*: propose a novel **PE-RSITR** task and provide empirical studies（accepted by **[TGRS](https://arxiv.org/abs/2308.12509)**）!
-- *2023.02*: propose the **[RSVG](https://github.com/ZhanYang-nwpu/RSVG-pytorch)** task and construct the **DIOR-RSVG** dataset（accepted by **[TGRS](https://ieeexplore.ieee.org/document/10056343)**）!
+- [2023/08]: Propose a novel **PE-RSITR** task and provide empirical studies（accepted by **[TGRS](https://arxiv.org/abs/2308.12509)**）!
+- [2023/02]: Propose the **[RSVG](https://github.com/ZhanYang-nwpu/RSVG-pytorch)** task and construct the **DIOR-RSVG** dataset（accepted by **[TGRS](https://ieeexplore.ieee.org/document/10056343)**）!
 
 
 
