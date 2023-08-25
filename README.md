@@ -6,9 +6,9 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 #### *Vision and Language*, *Multimodal Machine Learning*, *AI for Remote Sensing*, *Pattern Recognition*, and *Data Mining*.
 
 ### 🔥News
-- ……
-- [2023/08]: Propose a novel **PE-RSITR** task and provide empirical studies（accepted by **[TGRS](https://arxiv.org/abs/2308.12509)**）!
-- [2023/02]: Propose the **[RSVG](https://github.com/ZhanYang-nwpu/RSVG-pytorch)** task and construct the **DIOR-RSVG** dataset（accepted by **[TGRS](https://ieeexplore.ieee.org/document/10056343)**）!
+- 🔭[……]:
+- 🔭[2023/08]: Propose a novel **PE-RSITR** task and provide empirical studies（accepted by **[TGRS](https://arxiv.org/abs/2308.12509)**）!
+- 🔭[2023/02]: Propose the **[RSVG](https://github.com/ZhanYang-nwpu/RSVG-pytorch)** task and construct the **DIOR-RSVG** dataset（accepted by **[TGRS](https://ieeexplore.ieee.org/document/10056343)**）!
 
 
 
