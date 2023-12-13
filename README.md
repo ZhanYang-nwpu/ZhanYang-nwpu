@@ -3,7 +3,7 @@
 I am currently pursuing the Ph.D. degree with the **School of Artificial Intelligence, OPtics and ElectroNics** (**iOPEN**), *Northwestern Polytechnical University*, Xi’an, China.
 
 ### 🏆My research interests
-#### *Vision and Language*, *large language model*, *Multimodal Machine Learning*, *AI for Remote Sensing*, and *Data Mining*.
+#### *Vision and Language*, *Large Language Model*, *Multimodal Machine Learning*, *AI for Remote Sensing*, and *Data Mining*.
 
 ### 🔥🔥News
 - 🚀[……]:
