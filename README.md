@@ -7,7 +7,7 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 
 ### 🔥🔥News
 - 🚀[……]:
-- 🚀[2023/12]: Propose the **Mono3DVG** task and construct the **Mono3DRefer** dataset（accepted by **[AAAI2024](https://arxiv.org/pdf/2312.08022.pdf)**）!
+- 🚀[2023/12]: Propose the **Mono3DVG** task and construct the **Mono3DRefer** dataset（accepted by **[AAAI2024](https://arxiv.org/abs/2312.08022)**）!
 - 🚀[2023/08]: Propose a novel **PE-RSITR** task and provide empirical studies（accepted by **[TGRS](https://ieeexplore.ieee.org/document/10231134)**）!
 - 🚀[2023/02]: Propose the **RSVG** task and construct the **DIOR-RSVG** dataset（accepted by **[TGRS](https://ieeexplore.ieee.org/document/10056343)**）!
 - 🚀[2022/08]: Propose a **STMGCN** for vessel traffic flow prediction（accepted by **[TITS](https://ieeexplore.ieee.org/document/9868210)**）!
