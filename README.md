@@ -17,9 +17,7 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 ### 📢News
 - [……]:
 - [2023/12]: Propose the **Mono3DVG** task and construct the **Mono3DRefer** dataset（accepted by **AAAI2024**）! 
-- [2023/08]: Propose a novel **PE-RSITR** task and provide empirical studies（accepted by **TGRS**）!
-
-This work explores the **adapter-based parameter-efficient transfer learning** for remote sensing image-text retrieval. It reduces **98.9\%** of fine-tuned parameters. Our performance exceeds traditional methods by **7\%**~**13\%**.
+- [2023/08]: Propose a novel **PE-RSITR** task and provide empirical studies（accepted by **TGRS**）! This work explores the **adapter-based parameter-efficient transfer learning** for remote sensing image-text retrieval. It reduces **98.9\%** of fine-tuned parameters. Our performance exceeds traditional methods by **7\%**~**13\%**.
 - [2023/02]: Propose the **RSVG** task and construct the **DIOR-RSVG** dataset（accepted by **TGRS**）!
 - [2022/08]: Propose a **STMGCN** for vessel traffic flow prediction（accepted by **TITS**）!
 - [2021/08]: Propose a **MVFFNet** for imbalanced ship classification（accepted by **PRLetters**）!
