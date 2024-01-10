@@ -23,7 +23,7 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 - [2021/08]: Propose a **MVFFNet** for imbalanced ship classification（accepted by **PRLetters**）!
 
 ### 🌱 Academic Services 
-- **Journal Reviewer**: GRSLetters
+- **Journal Reviewer**: IEEE GRSL
 
 ### 📫 Contact
 Email: zhanyangnwpu@gmail.com
