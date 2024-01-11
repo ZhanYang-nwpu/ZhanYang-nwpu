@@ -20,13 +20,13 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 🔥 **[2023/12]**: Propose the **Mono3DVG** task and construct the **Mono3DRefer** dataset（accepted by **AAAI2024**）!
 - For intelligent systems and robots, understanding objects based on language expressions in real 3D scenes is an important capability for human-machine interaction. However, existing 2D visual grounding cannot capture the true 3D extent of the referred objects. 3D visual grounding requires laser radars or RGB-D sensors, which greatly limits its application scenarios due to the expensive cost and device limitations. Monocular 3D object detection is low-cost and has strong applicability, but it cannot localize specific objects. We introduce a novel task of **3D visual grounding in monocular RGB images** using language descriptions with appearance and geometry information. We create **Mono3DRefer**, which is the first dataset that leverages the ChatGPT to generate descriptions. We believe Mono3DVG can be widely applied since it does not require strict conditions such as RGB-D sensors, LiDARs, or industrial cameras. The application scenarios are wide, such as drones, surveillance systems, intelligent vehicles, robots, and other devices equipped with cameras.
 
-🔥 **[2023/08]**: Propose a novel **PE-RSITR** task and provide empirical studies（accepted by **TGRS**）!
+🔥 **[2023/08]**: Propose a novel **PE-RSITR** task and provide empirical studies（accepted by **T-GRS**）!
 - This work explores the **parameter-efficient transfer learning** for remote sensing image-text retrieval. Our proposed **MRS-Adapter** reduces **98.9\%** of fine-tuned parameters and its performance exceeds traditional methods by **7\%**~**13\%**.
   
-🔥 **[2023/02]**: Propose the **RSVG** task and construct the **DIOR-RSVG** dataset（accepted by **TGRS**）!
+🔥 **[2023/02]**: Propose the **RSVG** task and construct the **DIOR-RSVG** dataset（accepted by **T-GRS**）!
 - This work explores the **visual grounding** for remote sensing domain. The **DIOR-RSVG** takes DIOR dataset as the data source and is built using an automatic generation algorithm with manual verification. A novel transformer-based **MGVLF** model is devised to solve problems of the cluttered background and scale variation of RS images.
   
-🔥 **[2022/08]**: Propose a **STMGCN** for vessel traffic flow prediction（accepted by **TITS**）!
+🔥 **[2022/08]**: Propose a **STMGCN** for vessel traffic flow prediction（accepted by **T-ITS**）!
 - This work explores **multi-graph convolutional network** for vessel traffic flow prediction. Due to the difference between water traffic and land traffic, we propose a **big data-driven maritime traffic network extraction algorithm** to construct a "road network". We then design a **STMGCN** to make full use of maritime graphs and multi-graph learning (including distance graph, interaction graph, and correlation graph).
 
 🔥 **[2021/08]**: Propose a **MVFFNet** for imbalanced ship classification（accepted by **PRLetters**）!
