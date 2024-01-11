@@ -27,7 +27,8 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 - This work explores the **visual grounding** for remote sensing domain. The **DIOR-RSVG** takes DIOR dataset as the data source and is built using an automatic generation algorithm with manual verification. A novel transformer-based **MGVLF** model is devised to solve problems of the cluttered background and scale variation of RS images.
   
 🔥 **[2022/08]**: Propose a **STMGCN** for vessel traffic flow prediction（accepted by **TITS**）!
-  
+- This work explores multi-graph convolutional network for vessel traffic flow prediction. Due to the difference between water traffic and land traffic, we propose a **big data-driven maritime traffic network extraction algorithm** to construct a "road network". We then design a **spatio-temporal multi-graph convolutional network (STMGCN)** to make full use of maritime graphs and multi-graph learning (including distance graph, interaction graph, and correlation graph).
+
 🔥 **[2021/08]**: Propose a **MVFFNet** for imbalanced ship classification（accepted by **PRLetters**）!
 
 ### 🌱 Academic Services 
