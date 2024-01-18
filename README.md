@@ -17,6 +17,8 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 ### 📢News
 🔥 **[……]**:
 
+🔥 **[2024/1]**: A curated list about [Remote Sensing Multimodal Large Language Model (Vision-Language)](https://github.com/ZhanYang-nwpu/Awesome-Remote-Sensing-Multimodal-Large-Language-Model) is created.
+
 🔥 **[2023/12]**: Propose the **Mono3DVG** task and construct the **Mono3DRefer** dataset（accepted by **AAAI2024**）!
 - For intelligent systems and robots, understanding objects based on language expressions in real 3D scenes is an important capability for human-machine interaction. However, existing 2D visual grounding cannot capture the true 3D extent of the referred objects. 3D visual grounding requires laser radars or RGB-D sensors, which greatly limits its application scenarios due to the expensive cost and device limitations. Monocular 3D object detection is low-cost and has strong applicability, but it cannot localize specific objects. We introduce a novel task of **3D visual grounding in monocular RGB images** using language descriptions with appearance and geometry information. We create **Mono3DRefer**, which is the first dataset that leverages the ChatGPT to generate descriptions. We believe Mono3DVG can be widely applied since it does not require strict conditions such as RGB-D sensors, LiDARs, or industrial cameras. The application scenarios are wide, such as drones, surveillance systems, intelligent vehicles, robots, and other devices equipped with cameras.
 
