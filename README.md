@@ -18,7 +18,8 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 ### 📢News
 🔥 **[……]**:
 
-🔥 **[2024/1]**: **SkyEyeGPT** now is available at arXiv. This work explores the **remote sensing multimodal large language model (vision-language)**.
+🔥 **[2024/1]**: **SkyEyeGPT** now is available at arXiv. 
+- This work explores the **remote sensing multimodal large language model (vision-language)**. We meticulously curate a high-quality remote sensing multi-modal instruction tuning dataset, including single-task and multi-task conversation instructions, namely **SkyEye-968k**. We develop **SkyEyeGPT**, which unifies remote sensing vision-language tasks and breaks new ground in enabling the unified modeling of remote sensing vision and LLM.  Experiments on 8 datasets for remote sensing vision language tasks demonstrate SkyEyeGPT’s superiority in image-level and region-level tasks. Specially, it has shown encouraging results in some tests, compared with GPT-4V. 
 
 🔥 **[2024/1]**: A curated list about [Remote Sensing Multimodal Large Language Model (Vision-Language)](https://github.com/ZhanYang-nwpu/Awesome-Remote-Sensing-Multimodal-Large-Language-Model) is created.
 
