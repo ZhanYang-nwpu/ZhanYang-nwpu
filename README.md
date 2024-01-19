@@ -8,7 +8,7 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 
 ### 💬Projects
 - 🚀 ……
-- 🚀 **SkyEyeGPT** (**天眼GPT**) [Paper][[Code](https://github.com/ZhanYang-nwpu/SkyEyeGPT)]
+- 🚀 **SkyEyeGPT** (**天眼GPT**) [[Paper](https://arxiv.org/abs/2401.09712)][[Code](https://github.com/ZhanYang-nwpu/SkyEyeGPT)]
 - 🚀 **Mono3DVG** (**Mono3DRefer**) AAAI'24 [[Paper](https://arxiv.org/abs/2312.08022)][[Code](https://github.com/ZhanYang-nwpu/Mono3DVG)][[Dataset](https://drive.google.com/drive/folders/1ICBv0SRbRIUnl_z8DVuH8lz7KQt580EI?usp=drive_link)][[Poster](https://pan.baidu.com/s/1jT3GWYWGPK2iSkP_kFDQ-A?pwd=yidy)][[PPT](https://pan.baidu.com/s/1kRszkeoeepRfpC9qTU7-Nw?pwd=ufwy)]
 - 🚀 **PE-RSITR** (**MRS-Adapter**) T-GRS'23 [[Paper](https://ieeexplore.ieee.org/document/10231134)][[Code](https://github.com/ZhanYang-nwpu/PE-RSITR)][[Dataset](https://drive.google.com/drive/folders/1F6WBQB-1PLqABh-uDv9m-KPdChakWcWY?usp=sharing)]
 - 🚀 **RSVG** (**DIOR-RSVG**) T-GRS'23 [[Paper](https://ieeexplore.ieee.org/document/10056343)][[Code](https://github.com/ZhanYang-nwpu/RSVG-pytorch)][[Dataset](https://drive.google.com/drive/folders/1hTqtYsC6B-m4ED2ewx5oKuYZV13EoJp_?usp=sharing)]
