@@ -45,6 +45,13 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 ### 📫 Contact
 Email: zhanyangnwpu@gmail.com
 
+
+### ⚡ Fact
+<p align='left'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=yang zhan&show_icons=true&count_private=true&theme=light" width="350"></a>
+</p>
+
+
 <!--
 **ZhanYang-nwpu/ZhanYang-nwpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
