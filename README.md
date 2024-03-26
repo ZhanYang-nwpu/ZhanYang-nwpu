@@ -6,12 +6,6 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 #### *Vision and Language*, *Large Language Model*, *Multimodal Machine Learning*, *AI for Remote Sensing*, and *Data Mining*.
 
 
-### ⚡
-<p align='left'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ZhanYang-nwpu&show_icons=true&count_private=true&theme=ambient_gradient" width="420"></a>
-</p>
-
-
 ### 💬Projects
 - 🚀 ……
 - 🚀 **SkyEyeGPT** (**天眼GPT**, **SkyEye-968k**) [[Paper](https://arxiv.org/abs/2401.09712)][[Code](https://github.com/ZhanYang-nwpu/SkyEyeGPT)][Dataset]
@@ -52,6 +46,10 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 Email: zhanyangnwpu@gmail.com
 
 
+### ⚡ Fact
+<p align='left'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ZhanYang-nwpu&show_icons=true&count_private=true&theme=ambient_gradient" width="450"></a>
+</p>
 
 
 
