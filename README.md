@@ -8,7 +8,7 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 
 ### ⚡
 <p align='left'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ZhanYang-nwpu&show_icons=true&count_private=true&theme=light" width="550"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ZhanYang-nwpu&show_icons=true&count_private=true&theme=light" width="450"></a>
 </p>
 
 
