@@ -41,11 +41,11 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 
 ### 🌱 Academic Services 
 - **Journal Reviewer**:
-- IEEE Transactions on Geoscience and Remote Sensing (T-GRS)
-- Neural Networks (NEUNET)
-- IEEE Geoscience and Remote Sensing Letters (IEEE GRSL)
-- Computers and Electrical Engineering (COMPELECENG)
-- Pattern Recognition Letters (PRLETTERS)
+  - IEEE Transactions on Geoscience and Remote Sensing (T-GRS)
+  - Neural Networks (NEUNET)
+  - IEEE Geoscience and Remote Sensing Letters (IEEE GRSL)
+  - Computers and Electrical Engineering (COMPELECENG)
+  - Pattern Recognition Letters (PRLETTERS)
 
 ### 📫 Contact
 Email: zhanyangnwpu@gmail.com
