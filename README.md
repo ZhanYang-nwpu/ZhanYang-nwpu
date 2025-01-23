@@ -18,6 +18,8 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 ### 📢News
 🔥 **[……]**:
 
+🔥 **[2025/1]**: **SkyEyeGPT** now is accepted by **ISPRS**!
+
 🔥 **[2024]**: Remote sensing multimodal large language model is an ongoing project. We will be working on improving it.
 
 🔥 **[2024/1]**: **SkyEyeGPT** now is available at arXiv. 
