@@ -53,6 +53,7 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
   - Pattern Recognition Letters (PRLETTERS)
   - Journal of Supercomputing (J SUPERCOMPUT)
   - Computers and Electrical Engineering (COMPELECENG)
+  - Multimedia Systems
   - CMC-Computers, Materials & Continua (CMC)
   - IET Intelligent Transport Systems (IET ITS)
 
