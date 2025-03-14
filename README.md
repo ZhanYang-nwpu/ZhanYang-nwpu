@@ -57,6 +57,7 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
   - CMC-Computers, Materials & Continua (CMC)
   - Signal, Image and Video Processing
   - IET Intelligent Transport Systems (IET ITS)
+  - Artificial Intelligence in Agriculture
 
 
 ### 📫 Contact
