@@ -49,6 +49,7 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
   - IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT)
   - IEEE Transactions on Geoscience and Remote Sensing (T-GRS)
   - Neural Networks (NEUNET)
+  - Artificial Intelligence in Agriculture
   - IEEE Geoscience and Remote Sensing Letters (IEEE GRSL)
   - Pattern Recognition Letters (PRLETTERS)
   - Journal of Supercomputing (J SUPERCOMPUT)
@@ -57,7 +58,7 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
   - CMC-Computers, Materials & Continua (CMC)
   - Signal, Image and Video Processing
   - IET Intelligent Transport Systems (IET ITS)
-  - Artificial Intelligence in Agriculture
+  - Big Earth Data
 
 
 ### 📫 Contact
