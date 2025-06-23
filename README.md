@@ -52,13 +52,14 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
   - Artificial Intelligence in Agriculture
   - IEEE Geoscience and Remote Sensing Letters (IEEE GRSL)
   - Pattern Recognition Letters (PRLETTERS)
+  - Big Earth Data
   - Journal of Supercomputing (J SUPERCOMPUT)
   - Computers and Electrical Engineering (COMPELECENG)
   - Multimedia Systems
   - CMC-Computers, Materials & Continua (CMC)
   - Signal, Image and Video Processing
   - IET Intelligent Transport Systems (IET ITS)
-  - Big Earth Data
+
 
 
 ### 📫 Contact
