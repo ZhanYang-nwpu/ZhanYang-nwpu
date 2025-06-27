@@ -45,6 +45,7 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 
 ### 🌱 Academic Services 
 - **Journal Reviewer**:
+  - npj Heritage Science (Nature Portfolio)
   - IEEE Transactions on Multimedia (T-MM)
   - IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT)
   - IEEE Transactions on Geoscience and Remote Sensing (T-GRS)
