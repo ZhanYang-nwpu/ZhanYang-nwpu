@@ -18,6 +18,9 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 ### 📢News
 🔥 **[……]**:
 
+🔥 **[2025/09]**: Propose the **MVPC-CLIP** for vision-language aerial video recognition (accepted by **T-MM**)!
+- This work explores the vision-language multi-modality contrastive learning paradigm for aerial video recognition. We propose a contrastive learning framework with **Multi-granularity Visual Prompt Co-operative information flow**, termed **MVPC-CLIP**. Our MVPC-CLIP can be a winner across all zero-shot, few-shot, and fully-supervised settings.
+  
 🔥 **[2025/1]**: **SkyEyeGPT** now is accepted by **ISPRS**!
 
 🎉 **[2024/12]**: I was supported by the **Basic Research Project for Young Students of the National Natural Science Foundation of China**! 
