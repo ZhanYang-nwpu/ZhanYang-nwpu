@@ -21,16 +21,16 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 🔥 **[2025/09]**: Propose the **MVPC-CLIP** for vision-language aerial video recognition (accepted by **T-MM**)!
 - This work explores the vision-language multi-modality contrastive learning paradigm for aerial video recognition. We propose a contrastive learning framework with **Multi-granularity Visual Prompt Co-operative information flow**, termed **MVPC-CLIP**. Our MVPC-CLIP can be a winner across all zero-shot, few-shot, and fully-supervised settings.
   
-🔥 **[2025/1]**: **SkyEyeGPT** now is accepted by **ISPRS**!
+🔥 **[2025/01]**: **SkyEyeGPT** now is accepted by **ISPRS**!
 
 🎉 **[2024/12]**: I was supported by the **Basic Research Project for Young Students of the National Natural Science Foundation of China**! 
 
 🔥 **[2024]**: Remote sensing multimodal large language model is an ongoing project. We will be working on improving it.
 
-🔥 **[2024/1]**: **SkyEyeGPT** now is available at arXiv. 
+🔥 **[2024/01]**: **SkyEyeGPT** now is available at arXiv. 
 - This work explores the **remote sensing multimodal large language model (vision-language)**. We meticulously curate a high-quality remote sensing multi-modal instruction tuning dataset, including single-task and multi-task conversation instructions, namely **SkyEye-968k**. We develop **SkyEyeGPT**, which unifies remote sensing vision-language tasks and breaks new ground in enabling the unified modeling of remote sensing vision and LLM.  Experiments on 8 datasets for remote sensing vision language tasks demonstrate SkyEyeGPT’s superiority in image-level and region-level tasks. Specially, it has shown encouraging results in some tests, compared with GPT-4V. 
 
-🔥 **[2024/1]**: A curated list about [Remote Sensing Multimodal Large Language Model (Vision-Language)](https://github.com/ZhanYang-nwpu/Awesome-Remote-Sensing-Multimodal-Large-Language-Model) is created.
+🔥 **[2024/01]**: A curated list about [Remote Sensing Multimodal Large Language Model (Vision-Language)](https://github.com/ZhanYang-nwpu/Awesome-Remote-Sensing-Multimodal-Large-Language-Model) is created.
 
 🔥 **[2023/12]**: Propose the **Mono3DVG** task and construct the **Mono3DRefer** dataset（accepted by **AAAI2024**）!
 - For intelligent systems and robots, understanding objects based on language expressions in real 3D scenes is an important capability for human-machine interaction. However, existing 2D visual grounding cannot capture the true 3D extent of the referred objects. 3D visual grounding requires laser radars or RGB-D sensors, which greatly limits its application scenarios due to the expensive cost and device limitations. Monocular 3D object detection is low-cost and has strong applicability, but it cannot localize specific objects. We introduce a novel task of **3D visual grounding in monocular RGB images** using language descriptions with appearance and geometry information. We create **Mono3DRefer**, which is the first dataset that leverages the ChatGPT to generate descriptions. We believe Mono3DVG can be widely applied since it does not require strict conditions such as RGB-D sensors, LiDARs, or industrial cameras. The application scenarios are wide, such as drones, surveillance systems, intelligent vehicles, robots, and other devices equipped with cameras.
