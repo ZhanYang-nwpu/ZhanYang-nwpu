@@ -18,6 +18,10 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 ### 📢News
 🔥 **[……]**:
 
+🔥 **[2025/09]**: Propose the **SAVG** task and construct the **UAV-SVG** dataset (accepted by **NeurIPS**)!
+- This work explores the **spatial aerial video grounding** for low-altitude UAVs. A novel **SAVG-DETR** model is devised to solve challenges of the aerial object grounding.
+  
+
 🔥 **[2025/09]**: Propose the **MVPC-CLIP** for vision-language aerial video recognition (accepted by **T-MM**)!
 - This work explores the vision-language multi-modality contrastive learning paradigm for aerial video recognition. We propose a contrastive learning framework with **Multi-granularity Visual Prompt Co-operative information flow**, termed **MVPC-CLIP**. Our MVPC-CLIP can be a winner across all zero-shot, few-shot, and fully-supervised settings.
   
