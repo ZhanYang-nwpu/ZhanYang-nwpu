@@ -60,18 +60,18 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
   - IEEE Transactions on Geoscience and Remote Sensing (T-GRS)
   - Neural Networks (NEUNET)
   - Engineering Applications of Artificial Intelligence (EAAI)
-  - Geo-spatial Information Science (GSIS)
-  - Artificial Intelligence in Agriculture
-  - IEEE Geoscience and Remote Sensing Letters (IEEE GRSL)
-  - Ocean Engineering
-  - Pattern Recognition Letters (PRLETTERS)
   - Big Earth Data
+  - Artificial Intelligence in Agriculture
+  - Ocean Engineering
+  - Geo-spatial Information Science (GSIS)
+  - IEEE Geoscience and Remote Sensing Letters (IEEE GRSL)
+  - Pattern Recognition Letters (PRLETTERS)
   - Journal of Supercomputing (J SUPERCOMPUT)
-  - Computers and Electrical Engineering (COMPELECENG)
+  - IET Intelligent Transport Systems (IET ITS)
   - Multimedia Systems
   - CMC-Computers, Materials & Continua (CMC)
   - Signal, Image and Video Processing
-  - IET Intelligent Transport Systems (IET ITS)
+  - Computers and Electrical Engineering (COMPELECENG)
 
 
 
