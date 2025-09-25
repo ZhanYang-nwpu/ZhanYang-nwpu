@@ -63,6 +63,7 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
   - Geo-spatial Information Science (GSIS)
   - Artificial Intelligence in Agriculture
   - IEEE Geoscience and Remote Sensing Letters (IEEE GRSL)
+  - Ocean Engineering
   - Pattern Recognition Letters (PRLETTERS)
   - Big Earth Data
   - Journal of Supercomputing (J SUPERCOMPUT)
