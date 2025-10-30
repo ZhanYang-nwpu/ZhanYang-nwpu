@@ -59,6 +59,7 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
   - IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT)
   - IEEE Transactions on Geoscience and Remote Sensing (T-GRS)
   - ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS)
+  - Pattern Recognition (PR)
   - Neural Networks (NEUNET)
   - Engineering Applications of Artificial Intelligence (EAAI)
   - Big Earth Data
