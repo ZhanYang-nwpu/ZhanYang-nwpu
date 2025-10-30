@@ -74,7 +74,10 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
   - CMC-Computers, Materials & Continua (CMC)
   - Signal, Image and Video Processing
   - Computers and Electrical Engineering (COMPELECENG)
-
+  
+- **Conference Reviewer**:
+  - The 39th Annual Conference on Neural Information Processing Systems (NeurIPS 2025)
+  - The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026)
 
 
 ### 📫 Contact
