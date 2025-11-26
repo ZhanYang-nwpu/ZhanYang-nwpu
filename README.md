@@ -20,6 +20,8 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 ### 📢News
 🔥 **[……]**:
 
+🔥 **[2025/11]**: A curated list about [Multimodal Large Language Model for UAV Vision-Language Perception](https://github.com/ZhanYang-nwpu/Awesome-Multimodal-Large-Language-Models-for-UAV-Vision-Language-Perception) is created.
+
 🔥 **[2025/09]**: Propose the **SAVG** task and construct the **UAV-SVG** dataset (accepted by **NeurIPS**)!
 - This work explores the **spatial aerial video grounding** for low-altitude UAVs. A novel **SAVG-DETR** model is devised to solve challenges of the aerial object grounding.
   
