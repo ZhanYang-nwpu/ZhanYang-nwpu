@@ -89,7 +89,7 @@ Email: zhanyangnwpu@gmail.com
 
 ### ⚡ Fact
 <p align='left'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ZhanYang-nwpu&show_icons=true&count_private=true&theme=ambient_gradient" width="450"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ZhanYang-nwpu&show_icons=true&theme=ambient_gradient" width="450"></a>
 </p>
 
 
