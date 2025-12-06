@@ -89,8 +89,20 @@ Email: zhanyangnwpu@gmail.com
 
 
 ### ⚡ Fact
-<p align='left'>
-  <img src="https://github-readme-stats-x3be.vercel.app/api?username=ZhanYang-nwpu&show_icons=true&count_private=true&theme=ambient_gradient" width="450">
+<p align="center">
+  <br/>
+
+<a href="https://github.com/ZhanYang-nwpu">
+    <img src="https://img.shields.io/badge/GitHub-ZhanYang&#8209;nwpu-000000?logo=github">
+</a> 
+
+<a href="https://scholar.google.com/citations?user=UwRcEOsAAAAJ&hl=zh-CN">
+    <img src="https://img.shields.io/badge/Google%20Scholar-ZhanYang-4285F4?logo=google-scholar&logoColor=white">
+</a>
+<br/>
+  <a href="https://github.com/ZhanYang-nwpu">
+  <img src="https://github-readme-stats-x3be.vercel.app/api?username=ZhanYang-nwpu&cc=22272e&tc=37BCF6&ic=fff&bc=0000&show_icons=true&count_private=true&theme=ambient_gradient" width="450">
+  </a>
 </p>
 
 
