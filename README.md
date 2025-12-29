@@ -70,6 +70,7 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
   - Big Earth Data
   - Artificial Intelligence in Agriculture
   - International Journal of Applied Earth Observation and Geoinformation (JAG)
+  - Information Sciences 
   - Remote Sensing
   - Ocean Engineering
   - Geo-spatial Information Science (GSIS)
@@ -77,6 +78,7 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
   - Pattern Recognition Letters (PRLETTERS)
   - Journal of Supercomputing (J SUPERCOMPUT)
   - IET Intelligent Transport Systems (IET ITS)
+  - Applied Sciences
   - Multimedia Systems
   - CMC-Computers, Materials & Continua (CMC)
   - Signal, Image and Video Processing
