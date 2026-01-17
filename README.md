@@ -1,5 +1,7 @@
 # Yang Zhan 👋
 
+We warmly welcome any form of academic cooperation. Please feel free to email me at zhanyangnwpu@gmail.com.
+
 I am currently pursuing the Ph.D. degree with the **School of Artificial Intelligence, OPtics and ElectroNics** (**iOPEN**), *Northwestern Polytechnical University*, Xi’an, China.
 
 ### 🏆My research interests
