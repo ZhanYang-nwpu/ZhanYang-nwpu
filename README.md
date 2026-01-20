@@ -63,10 +63,14 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 🔥 **[2021/08]**: Propose a **MVFFNet** for imbalanced ship classification（accepted by **PRLetters**）!
 
 
-### 🏆Awards
+### 🏆Honors and Awards
 - **[2025]**: 
 - **[2024]**: 
-- **[2023]**: 
+- **[2023/11]**: National Scholarship (The highest scholarship awarded by the Ministry of Education, China)
+- **[2023/11]**: First Prize Academic Scholarship, Northwestern Polytechnical University 
+- **[2023/11]**:
+- 
+
 
 
 ### 🌱 Academic Services 
