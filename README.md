@@ -8,6 +8,10 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 #### *UAV Low-altitude Intelligence*, *Spatio-Temporal AI*, *Geospatial AI*, *Vision-Language MultiModal*, *Large Language Model*, *AI for Remote Sensing*, and *Data Mining*.
 
 
+### 💼 Experience
+**2025-present**: Research Assistant | The Hong Kong Polytechnic University
+
+
 ### 💬Projects
 - 🚀 ……
 - 🚀 **SAVG** (**UAV-SVG**) NeurIPS'25 [[Code](https://github.com/ZhanYang-nwpu/SAVG)][[Dataset](https://huggingface.co/datasets/ZhanYang-nwpu/UAV-SVG)]
@@ -57,6 +61,9 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 - This work explores **multi-graph convolutional network** for vessel traffic flow prediction. Due to the difference between water traffic and land traffic, we propose a **big data-driven maritime traffic network extraction algorithm** to construct a "road network". We then design a **STMGCN** to make full use of maritime graphs and multi-graph learning (including distance graph, interaction graph, and correlation graph).
 
 🔥 **[2021/08]**: Propose a **MVFFNet** for imbalanced ship classification（accepted by **PRLetters**）!
+
+
+
 
 ### 🌱 Academic Services 
 - **Journal Reviewer**:
