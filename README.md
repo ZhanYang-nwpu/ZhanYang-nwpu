@@ -96,7 +96,7 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 
 
 ### 📖 Educations
-- 2022.09-present, Ph.D. candidate, Northwestern Polytechnical University.
+- 2022.09-present, Ph.D. candidate, Northwestern Polytechnical University, Computer Science and Technology.
 - 2018.09-2022.06, Wuhan University of Technology, Computer Science and Technology.
 
 ### 💼Experience
