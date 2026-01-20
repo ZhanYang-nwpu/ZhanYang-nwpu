@@ -8,10 +8,6 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 #### *UAV Low-altitude Intelligence*, *Spatio-Temporal AI*, *Geospatial AI*, *Vision-Language MultiModal*, *Large Language Model*, *AI for Remote Sensing*, and *Data Mining*.
 
 
-### 💼Experience
-- **[2025-present]**: Research Assistant | The Hong Kong Polytechnic University
-
-
 ### 💬Projects
 - 🚀 ……
 - 🚀 **SAVG** (**UAV-SVG**) NeurIPS'25 [[Code](https://github.com/ZhanYang-nwpu/SAVG)][[Dataset](https://huggingface.co/datasets/ZhanYang-nwpu/UAV-SVG)]
@@ -63,14 +59,6 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 🔥 **[2021/08]**: Propose a **MVFFNet** for imbalanced ship classification（accepted by **PRLetters**）!
 
 
-### 🏆Honors and Awards
-- **[2025]**: 
-- **[2024/11]**: Outstanding Graduate Student Model, Northwestern Polytechnical University (10 students)
-- **[2023/11]**: National Scholarship (The highest scholarship awarded by the Ministry of Education, China)
-- **[2023/11]**: First Prize Academic Scholarship, Northwestern Polytechnical University 
-- **[2023/11]**:
-- 
-
 
 
 ### 🌱 Academic Services 
@@ -104,6 +92,30 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 - **Conference Reviewer**:
   - The 39th Annual Conference on Neural Information Processing Systems (NeurIPS 2025)
   - The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026)
+
+
+
+### 💼Experience
+- **[2025-present]**: Research Assistant | The Hong Kong Polytechnic University
+
+
+### 🏆Honors and Awards
+- **[2025/11]**: Special Grade Scholarship, Northwestern Polytechnical University (10 students)
+- **[2025/11]**: Outstanding Graduate Student Model, Northwestern Polytechnical University (10 students)
+- **[2025/11]**: Research Value Scholarship, Northwestern Polytechnical University
+- **[2025/11]**: First Prize Academic Scholarship, Northwestern Polytechnical University
+- **[2024/11]**: Special Grade Scholarship, Northwestern Polytechnical University (10 students)
+- **[2024/11]**: Outstanding Graduate Student Model, Northwestern Polytechnical University (10 students)
+- **[2024/11]**: Graduate Journey Star, Northwestern Polytechnical University (10 students)
+- **[2023/11]**: National Scholarship (The highest scholarship awarded by the Ministry of Education, China)
+- **[2023/11]**: First Prize Academic Scholarship, Northwestern Polytechnical University 
+- **[2023/11]**: Self-Reliance Star, Northwestern Polytechnical University (10 students)
+- 
+
+
+### 📖 Educations
+- 2022.09-present, Ph.D. candidate, Northwestern Polytechnical University.
+- 2018.09-2022.06, Wuhan University of Technology, Computer Science and Technology.
 
 
 ### 📫 Contact
