@@ -65,7 +65,7 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 
 ### 🏆Honors and Awards
 - **[2025]**: 
-- **[2024]**: 
+- **[2024/11]**: Outstanding Graduate Student Model, Northwestern Polytechnical University (10 students)
 - **[2023/11]**: National Scholarship (The highest scholarship awarded by the Ministry of Education, China)
 - **[2023/11]**: First Prize Academic Scholarship, Northwestern Polytechnical University 
 - **[2023/11]**:
