@@ -9,7 +9,7 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 
 
 ### 💼Experience
-**2025-present**: Research Assistant | The Hong Kong Polytechnic University
+- **[2025-present]**: Research Assistant | The Hong Kong Polytechnic University
 
 
 ### 💬Projects
@@ -64,8 +64,9 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 
 
 ### 🏆Awards
-
-
+- **[2025]**:
+- **[2024]**:
+- **[2023]**:
 
 
 ### 🌱 Academic Services 
