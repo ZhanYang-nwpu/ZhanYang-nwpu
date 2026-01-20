@@ -95,6 +95,10 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 
 
 
+### 📖 Educations
+- 2022.09-present, Ph.D. candidate, Northwestern Polytechnical University.
+- 2018.09-2022.06, Wuhan University of Technology, Computer Science and Technology.
+
 ### 💼Experience
 - **[2025-present]**: Research Assistant | The Hong Kong Polytechnic University
 
@@ -112,10 +116,6 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 - **[2023/11]**: Self-Reliance Star, Northwestern Polytechnical University (10 students)
 - 
 
-
-### 📖 Educations
-- 2022.09-present, Ph.D. candidate, Northwestern Polytechnical University.
-- 2018.09-2022.06, Wuhan University of Technology, Computer Science and Technology.
 
 
 ### 📫 Contact
