@@ -104,17 +104,18 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 
 
 ### 🏆Honors and Awards
-- **[2025/11]**: Special Grade Scholarship, Northwestern Polytechnical University (10 students)
-- **[2025/11]**: Outstanding Graduate Student Model, Northwestern Polytechnical University (10 students)
+- **[2025/11]**: Special Grade Scholarship, Northwestern Polytechnical University (**10 students**)
+- **[2025/11]**: Outstanding Graduate Student Model, Northwestern Polytechnical University (**10 students**)
+- **[2025/11]**: Self-Reliance Star, Northwestern Polytechnical University (**10 students**)
 - **[2025/11]**: Research Value Scholarship, Northwestern Polytechnical University
 - **[2025/11]**: First Prize Academic Scholarship, Northwestern Polytechnical University
-- **[2024/11]**: Special Grade Scholarship, Northwestern Polytechnical University (10 students)
-- **[2024/11]**: Outstanding Graduate Student Model, Northwestern Polytechnical University (10 students)
-- **[2024/11]**: Graduate Journey Star, Northwestern Polytechnical University (10 students)
-- **[2023/11]**: National Scholarship (The highest scholarship awarded by the Ministry of Education, China)
+- **[2024/11]**: Special Grade Scholarship, Northwestern Polytechnical University (**10 students**)
+- **[2024/11]**: Outstanding Graduate Student Model, Northwestern Polytechnical University (**10 students**)
+- **[2024/11]**: Graduate Journey Star, Northwestern Polytechnical University (**10 students**)
+- **[2023/11]**: National Scholarship (**The highest scholarship awarded by the Ministry of Education, China**)
+- **[2023/11]**: Self-Reliance Star, Northwestern Polytechnical University (**10 students**)
 - **[2023/11]**: First Prize Academic Scholarship, Northwestern Polytechnical University 
-- **[2023/11]**: Self-Reliance Star, Northwestern Polytechnical University (10 students)
-- 
+- **……**
 
 
 
