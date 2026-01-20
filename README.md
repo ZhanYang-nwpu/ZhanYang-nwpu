@@ -4,11 +4,11 @@ We warmly welcome any form of academic cooperation. Please feel free to email me
 
 I am currently pursuing the Ph.D. degree with the **School of Artificial Intelligence, OPtics and ElectroNics** (**iOPEN**), *Northwestern Polytechnical University*, Xi’an, China.
 
-### 🏆My research interests
+### 🌟My research interests
 #### *UAV Low-altitude Intelligence*, *Spatio-Temporal AI*, *Geospatial AI*, *Vision-Language MultiModal*, *Large Language Model*, *AI for Remote Sensing*, and *Data Mining*.
 
 
-### 💼 Experience
+### 💼Experience
 **2025-present**: Research Assistant | The Hong Kong Polytechnic University
 
 
@@ -61,6 +61,9 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 - This work explores **multi-graph convolutional network** for vessel traffic flow prediction. Due to the difference between water traffic and land traffic, we propose a **big data-driven maritime traffic network extraction algorithm** to construct a "road network". We then design a **STMGCN** to make full use of maritime graphs and multi-graph learning (including distance graph, interaction graph, and correlation graph).
 
 🔥 **[2021/08]**: Propose a **MVFFNet** for imbalanced ship classification（accepted by **PRLetters**）!
+
+
+### 🏆Awards
 
 
 
