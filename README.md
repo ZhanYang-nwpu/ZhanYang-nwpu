@@ -19,7 +19,7 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 - 🚀 **STMGCN** T-ITS'22 [[Paper](https://ieeexplore.ieee.org/document/9868210)]
 - 🚀 **MVFFNet** PRLetters'21 [[Paper](https://www.sciencedirect.com/science/article/pii/S0167865521002737)]
 
-### 📢News
+### 📢Recent News
 🔥 **[……]**:
 
 🎉 **[2025/12]**: I was selected for the **Youth Science and Technology Talent Cultivation Program for Doctoral Students by China Association for Science and Technology**!
