@@ -62,6 +62,8 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 
 
 ### 🌱 Academic Services 
+- **Editorial Activity**：
+
 - **Journal Reviewer**:
   - npj Heritage Science (Nature Portfolio)
   - Scientific Reports (Nature Portfolio)
