@@ -80,6 +80,7 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
   - ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS)
   - Pattern Recognition (PR)
   - Neural Networks (NEUNET)
+  - Knowledge-Based Systems (KBS)
   - Engineering Applications of Artificial Intelligence (EAAI)
   - Big Earth Data
   - Artificial Intelligence in Agriculture
