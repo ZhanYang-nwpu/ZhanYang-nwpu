@@ -9,7 +9,7 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 
 
 ### 📢Flash-news
-**Special Issue**: Vision–Language Multimodal Learning for Remote Sensing and Geospatial Artificial Intelligence [Website](https://www.mdpi.com/journal/remotesensing/special_issues/7WPTD4GY5N)
+**Special Issue**: Vision–Language Multimodal Learning for Remote Sensing and Geospatial Artificial Intelligence [[Website](https://www.mdpi.com/journal/remotesensing/special_issues/7WPTD4GY5N)]
 
 
 ### 💬Projects
