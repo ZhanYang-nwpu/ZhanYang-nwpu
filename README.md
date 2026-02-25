@@ -89,6 +89,7 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
   - Remote Sensing
   - Ocean Engineering
   - Geo-spatial Information Science (GSIS)
+  - Journal of King Saud University Computer and Information Sciences
   - IEEE Geoscience and Remote Sensing Letters (IEEE GRSL)
   - Pattern Recognition Letters (PRLETTERS)
   - Journal of Supercomputing (J SUPERCOMPUT)
