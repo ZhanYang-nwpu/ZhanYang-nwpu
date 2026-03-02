@@ -10,6 +10,7 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 
 ### 📢Flash-news
 Serve as the **lead guest editor** of the Remote Sensing journal (JCR Q1)
+
 **Special Issue**: Vision–Language Multimodal Learning for Remote Sensing and Geospatial Artificial Intelligence [[Website](https://www.mdpi.com/journal/remotesensing/special_issues/7WPTD4GY5N)]
 
 
