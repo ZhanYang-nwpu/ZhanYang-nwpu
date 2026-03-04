@@ -96,6 +96,7 @@ Serve as the **lead guest editor** of the Remote Sensing journal (JCR Q1)
   - Pattern Recognition Letters (PRLETTERS)
   - Journal of Supercomputing (J SUPERCOMPUT)
   - IET Intelligent Transport Systems (IET ITS)
+  - Mathematics
   - Applied Sciences
   - Multimedia Systems
   - CMC-Computers, Materials & Continua (CMC)
