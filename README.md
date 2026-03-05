@@ -17,7 +17,7 @@ Serve as the **lead guest editor** of the Remote Sensing journal (JCR Q1)
 ### 💬Projects
 - 🚀 ……
 - 🚀 **SAVG** (**UAV-SVG**) NeurIPS'25 [[Code](https://github.com/ZhanYang-nwpu/SAVG)][[Dataset](https://huggingface.co/datasets/ZhanYang-nwpu/UAV-SVG)]
-- 🚀 **MVPC-CLIP** T-MM'25 [[Code](https://github.com/ZhanYang-nwpu/MVPC-CLIP)]
+- 🚀 **MVPC-CLIP** T-MM'25 [[Code](https://github.com/ZhanYang-nwpu/MVPC-CLIP)][[Paper](https://ieeexplore.ieee.org/document/11420246)]
 - 🚀 **SkyEyeGPT** (**SkyEye-968k**) ISPRS'25 [[Paper](https://doi.org/10.1016/j.isprsjprs.2025.01.020)][[Code](https://github.com/ZhanYang-nwpu/SkyEyeGPT)][[Dataset](https://huggingface.co/datasets/ZhanYang-nwpu/SkyEye-968k)]  🏆ESI highly cited (Top 1%) 🏆Top 1% paper in Scopus 🏆Most downloaded paper in ISPRS (June 2025)
 - 🚀 **Mono3DVG** (**Mono3DRefer**) AAAI'24 [[AAAI Paper](https://doi.org/10.1609/aaai.v38i7.28525)][[ArXiv Paper](https://arxiv.org/abs/2312.08022)][[Code](https://github.com/ZhanYang-nwpu/Mono3DVG)][[Dataset](https://drive.google.com/drive/folders/1ICBv0SRbRIUnl_z8DVuH8lz7KQt580EI?usp=drive_link)][[AAAI Video/Poster](https://ojs.aaai.org/index.php/AAAI/article/view/28525/29024)][[Baidu Poster](https://pan.baidu.com/s/1jT3GWYWGPK2iSkP_kFDQ-A?pwd=yidy)][[Baidu PPT](https://pan.baidu.com/s/1kRszkeoeepRfpC9qTU7-Nw?pwd=ufwy)]
 - 🚀 **PE-RSITR** (**MRS-Adapter**) T-GRS'23 [[Paper](https://ieeexplore.ieee.org/document/10231134)][[Code](https://github.com/ZhanYang-nwpu/PE-RSITR)][[Dataset](https://drive.google.com/drive/folders/1F6WBQB-1PLqABh-uDv9m-KPdChakWcWY?usp=sharing)]
