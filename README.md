@@ -85,6 +85,7 @@ Serve as the **lead guest editor** of the Remote Sensing journal (JCR Q1)
   - Knowledge-Based Systems (KBS)
   - Engineering Applications of Artificial Intelligence (EAAI)
   - Big Earth Data
+  - Journal of Transport Geography (JTRG)
   - Artificial Intelligence in Agriculture
   - International Journal of Applied Earth Observation and Geoinformation (JAG)
   - Information Sciences 
