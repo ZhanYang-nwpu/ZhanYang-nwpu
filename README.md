@@ -101,6 +101,7 @@ Serve as the **lead guest editor** of the Remote Sensing journal (JCR Q1)
   - IET Intelligent Transport Systems (IET ITS)
   - Engineering Science and Technology, an International Journal (JESTCH)
   - Mathematics
+  - Agriculture
   - Applied Sciences
   - Multimedia Systems
   - CMC-Computers, Materials & Continua (CMC)
