@@ -11,11 +11,11 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 ### 📢Flash-news
 🔥 Serve as the **lead guest editor** of the Remote Sensing journal (JCR Q1)
 
-**Special Issue**: Vision–Language Multimodal Learning for Remote Sensing and Geospatial Artificial Intelligence [[Website](https://www.mdpi.com/journal/remotesensing/special_issues/7WPTD4GY5N)]
+- **Special Issue**: Vision–Language Multimodal Learning for Remote Sensing and Geospatial Artificial Intelligence [[Website](https://www.mdpi.com/journal/remotesensing/special_issues/7WPTD4GY5N)]
 
 🔥 Serve as the **lead guest editor** of the Future Transportation journal (JCR Q3)
 
-**Special Issue**: Large Language or Multimodal Models for Intelligent Transportation Systems: Innovations, Challenges, and Applications [[Website](https://www.mdpi.com/journal/futuretransp/special_issues/X5FK9R028G)]
+- **Special Issue**: Large Language or Multimodal Models for Intelligent Transportation Systems: Innovations, Challenges, and Applications [[Website](https://www.mdpi.com/journal/futuretransp/special_issues/X5FK9R028G)]
 
 
 ### 💬Projects
