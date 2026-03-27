@@ -37,6 +37,10 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 
 🔥 **[2026/03]**: **UAVBench** and **UAVIT-1M** now is available at arXiv. (Project page: https://UAVBench.github.io/)
 
+🎉 **[2026/03]**: Invited to serve as the **lead guest editor** of the Future Transportation journal and host a special issue!
+
+🎉 **[2026/01]**: Invited to serve as the **lead guest editor** of the Remote Sensing journal and host a special issue!
+
 🎉 **[2025/12]**: I was selected for the **Doctoral Student Program of Youth Science and Technology Talents Cultivation Project by China Association for Science and Technology**!
 
 🔥 **[2025/11]**: A curated list about [Multimodal Large Language Model for UAV Vision-Language Perception](https://github.com/ZhanYang-nwpu/Awesome-Multimodal-Large-Language-Models-for-UAV-Vision-Language-Perception) is created.
