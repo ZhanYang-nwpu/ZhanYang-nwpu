@@ -35,7 +35,7 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 ### 🗞️Recent News
 🔥 **[……]**:
 
-🔥 **[2026/03]**: **UAVBench** and **UAVIT-1M** now is available at arXiv. 
+🔥 **[2026/03]**: **UAVBench** and **UAVIT-1M** now is available at arXiv. (Project page: https://UAVBench.github.io/)
 
 🎉 **[2025/12]**: I was selected for the **Doctoral Student Program of Youth Science and Technology Talents Cultivation Project by China Association for Science and Technology**!
 
