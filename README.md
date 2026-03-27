@@ -79,6 +79,7 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 ### 🌱 Academic Services 
 - **Editorial Activity**：
   - Leading Guest Editor: Remote Sensing
+  - Leading Guest Editor: Future Transportation
 - **Journal Reviewer**:
   - npj Heritage Science (Nature Portfolio)
   - Scientific Reports (Nature Portfolio)
