@@ -109,6 +109,7 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
   - Journal of Supercomputing (J SUPERCOMPUT)
   - IET Intelligent Transport Systems (IET ITS)
   - Engineering Science and Technology, an International Journal (JESTCH)
+  - ISPRS International Journal of Geo-Information (IJGI)
   - Mathematics
   - Agriculture
   - Applied Sciences
