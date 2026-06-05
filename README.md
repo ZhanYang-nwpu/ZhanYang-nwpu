@@ -99,7 +99,8 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
   - Journal of Transport Geography (JTRG)
   - Artificial Intelligence in Agriculture
   - International Journal of Applied Earth Observation and Geoinformation (JAG)
-  - Information Sciences 
+  - Information Sciences
+  - Neurocomputing
   - Remote Sensing
   - Ocean Engineering
   - Geo-spatial Information Science (GSIS)
