@@ -120,6 +120,7 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
   - Signal, Image and Video Processing
   - Computers and Electrical Engineering (COMPELECENG)
   - Engineering Proceedings
+  - Computers 
   
 - **Conference Reviewer**:
   - The 39th Annual Conference on Neural Information Processing Systems (NeurIPS 2025)
