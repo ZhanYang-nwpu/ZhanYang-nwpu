@@ -111,6 +111,7 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
   - IET Intelligent Transport Systems (IET ITS)
   - Engineering Science and Technology, an International Journal (JESTCH)
   - ISPRS International Journal of Geo-Information (IJGI)
+  - Digital Signal Processing (DSP)
   - Mathematics
   - Agriculture
   - Applied Sciences
