@@ -95,6 +95,7 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
   - Neural Networks (NEUNET)
   - Knowledge-Based Systems (KBS)
   - Engineering Applications of Artificial Intelligence (EAAI)
+  - Computer Science Review (COSREV)
   - Big Earth Data
   - Journal of Transport Geography (JTRG)
   - Artificial Intelligence in Agriculture
