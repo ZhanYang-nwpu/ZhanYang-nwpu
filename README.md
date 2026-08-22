@@ -90,6 +90,7 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
   - IEEE Transactions on Multimedia (T-MM)
   - IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT)
   - IEEE Transactions on Geoscience and Remote Sensing (T-GRS)
+  - IEEE Geoscience and Remote Sensing Magazine (GRSM)
   - ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS P&RS)
   - Pattern Recognition (PR)
   - Neural Networks (NEUNET)
