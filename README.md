@@ -126,8 +126,12 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
   - International Journal of Multimedia Information Retrieval (IJMIR)
   
 - **Conference Reviewer**:
-  - The 39th Annual Conference on Neural Information Processing Systems (NeurIPS 2025)
+  - The 20th ACM International Conference on Web Search and Data Mining (WSDM 2027)
+  - The 41th Annual AAAI Conference on Artificial Intelligence (AAAI 2027)
+  - The 40th Annual Conference on Neural Information Processing Systems (NeurIPS 2026)
   - The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026)
+  - The 39th Annual Conference on Neural Information Processing Systems (NeurIPS 2025)
+
 
 
 
