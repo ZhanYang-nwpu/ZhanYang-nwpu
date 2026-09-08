@@ -103,6 +103,7 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
   - International Journal of Applied Earth Observation and Geoinformation (JAG)
   - Information Sciences
   - Neurocomputing
+  - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE J-STARS)
   - Remote Sensing
   - Ocean Engineering
   - Geo-spatial Information Science (GSIS)
@@ -124,6 +125,7 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
   - Computers and Electrical Engineering (COMPELECENG)
   - Engineering Proceedings
   - Computers
+  - Electronics
   - International Journal of Multimedia Information Retrieval (IJMIR)
   
 - **Conference Reviewer**:
