@@ -22,11 +22,11 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 - 🚀 ……
 - 🚀 **Point2Mask** T-GRS'26 [[Paper](https://ieeexplore.ieee.org/abstract/document/11683233)][[Code](https://github.com/GaoScience/Point2Mask)]
 - 🚀 **MVPC-CLIP** T-MM'26 [[Paper](https://ieeexplore.ieee.org/document/11420246)][[Code](https://github.com/ZhanYang-nwpu/MVPC-CLIP)]
-- 🚀 **UPTM-LLM** ASOC'25 [[Paper](https://www.sciencedirect.com/science/article/pii/S1568494625013122)] 🏆ESI highly cited (Top 1%) 
+- 🚀 **UPTM-LLM** ASOC'25 [[Paper](https://www.sciencedirect.com/science/article/pii/S1568494625013122)]  🏆ESI highly cited (Top 1%) 
 - 🚀 **SAVG** (**UAV-SVG**) NeurIPS'25 [[Paper]()][[Code](https://github.com/ZhanYang-nwpu/SAVG)][[Dataset](https://huggingface.co/datasets/ZhanYang-nwpu/UAV-SVG)][[PPT](https://neurips.cc/media/neurips-2025/Slides/116334_2UTH4S7.pdf)]
 - 🚀 **SkyEyeGPT** (**SkyEye-968k**) ISPRS'25 [[Paper](https://doi.org/10.1016/j.isprsjprs.2025.01.020)][[Code](https://github.com/ZhanYang-nwpu/SkyEyeGPT)][[Dataset](https://huggingface.co/datasets/ZhanYang-nwpu/SkyEye-968k)]  🏆ESI highly cited (Top 1%) 🏆Top 1% paper in Scopus 🏆Most downloaded paper in ISPRS (June 2025)
 - 🚀 **Mono3DVG** (**Mono3DRefer**) AAAI'24 [[AAAI Paper](https://doi.org/10.1609/aaai.v38i7.28525)][[ArXiv Paper](https://arxiv.org/abs/2312.08022)][[Code](https://github.com/ZhanYang-nwpu/Mono3DVG)][[Dataset](https://drive.google.com/drive/folders/1ICBv0SRbRIUnl_z8DVuH8lz7KQt580EI?usp=drive_link)][[AAAI Video/Poster](https://ojs.aaai.org/index.php/AAAI/article/view/28525/29024)][[Baidu Poster](https://pan.baidu.com/s/1jT3GWYWGPK2iSkP_kFDQ-A?pwd=yidy)][[Baidu PPT](https://pan.baidu.com/s/1kRszkeoeepRfpC9qTU7-Nw?pwd=ufwy)]
-- 🚀 **PE-RSITR** (**MRS-Adapter**) T-GRS'23 [[Paper](https://ieeexplore.ieee.org/document/10231134)][[Code](https://github.com/ZhanYang-nwpu/PE-RSITR)][[Dataset](https://drive.google.com/drive/folders/1F6WBQB-1PLqABh-uDv9m-KPdChakWcWY?usp=sharing)]
+- 🚀 **PE-RSITR** (**MRS-Adapter**) T-GRS'23 [[Paper](https://ieeexplore.ieee.org/document/10231134)][[Code](https://github.com/ZhanYang-nwpu/PE-RSITR)][[Dataset](https://drive.google.com/drive/folders/1F6WBQB-1PLqABh-uDv9m-KPdChakWcWY?usp=sharing)]  🏆Top 1% paper in Scopus
 - 🚀 **RSVG** (**DIOR-RSVG**) T-GRS'23 [[Paper](https://ieeexplore.ieee.org/document/10056343)][[Code](https://github.com/ZhanYang-nwpu/RSVG-pytorch)][[Dataset](https://drive.google.com/drive/folders/1hTqtYsC6B-m4ED2ewx5oKuYZV13EoJp_?usp=sharing)]  🏆ESI highly cited (Top 1%) 🏆Top 1% paper in Scopus
 - 🚀 **STMGCN** T-ITS'22 [[Paper](https://ieeexplore.ieee.org/document/9868210)]
 - 🚀 **MVFFNet** PRLetters'21 [[Paper](https://www.sciencedirect.com/science/article/pii/S0167865521002737)]
