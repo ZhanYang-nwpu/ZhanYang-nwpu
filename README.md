@@ -20,6 +20,7 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 
 ### 💬Projects
 - 🚀 ……
+- 🚀 **Point2Mask** T-GRS'26 [[Paper](https://ieeexplore.ieee.org/abstract/document/11683233)][[Code](https://github.com/GaoScience/Point2Mask)]
 - 🚀 **MVPC-CLIP** T-MM'26 [[Paper](https://ieeexplore.ieee.org/document/11420246)][[Code](https://github.com/ZhanYang-nwpu/MVPC-CLIP)]
 - 🚀 **SAVG** (**UAV-SVG**) NeurIPS'25 [[Paper]()][[Code](https://github.com/ZhanYang-nwpu/SAVG)][[Dataset](https://huggingface.co/datasets/ZhanYang-nwpu/UAV-SVG)][[PPT](https://neurips.cc/media/neurips-2025/Slides/116334_2UTH4S7.pdf)]
 - 🚀 **SkyEyeGPT** (**SkyEye-968k**) ISPRS'25 [[Paper](https://doi.org/10.1016/j.isprsjprs.2025.01.020)][[Code](https://github.com/ZhanYang-nwpu/SkyEyeGPT)][[Dataset](https://huggingface.co/datasets/ZhanYang-nwpu/SkyEye-968k)]  🏆ESI highly cited (Top 1%) 🏆Top 1% paper in Scopus 🏆Most downloaded paper in ISPRS (June 2025)
