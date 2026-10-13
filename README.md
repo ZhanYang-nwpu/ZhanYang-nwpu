@@ -40,7 +40,6 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 🔥 **[……]**:
 
 🔥 **[2026/10]**: Propose the **TCMA** for drone cross-modal text-video retrieval and construct the **DVTMD** dataset (accepted by **J-STARS**)!
-- This work explores the **Drone Cross-Modal Text-Video Retrieval** for UAV low-altitude intelligence. A novel **TCMA** model is devised to solve challenges of the drone cross-modal text-video retrieval.
 
 🔥 **[2026/03]**: **UAVBench** and **UAVIT-1M** now is available at arXiv. (Project page: https://UAVBench.github.io/)
 
@@ -52,10 +51,12 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 
 🔥 **[2025/11]**: A curated list about [Multimodal Large Language Model for UAV Vision-Language Perception](https://github.com/ZhanYang-nwpu/Awesome-Multimodal-Large-Language-Models-for-UAV-Vision-Language-Perception) is created.
 
+🔥 **[2025/10]**: **TCMA** now is available at arXiv. 
+- This work explores the **Drone Cross-Modal Text-Video Retrieval** for UAV low-altitude intelligence. We construct the **DVTMD** dataset for drone cross-modal text-video retrieval task. A novel **TCMA** model is devised to solve challenges of the drone cross-modal text-video retrieval.
+
 🔥 **[2025/09]**: Propose the **SAVG** task and construct the **UAV-SVG** dataset (accepted by **NeurIPS**)!
 - This work explores the **spatial aerial video grounding** for low-altitude UAVs. A novel **SAVG-DETR** model is devised to solve challenges of the aerial object grounding.
   
-
 🔥 **[2025/09]**: Propose the **MVPC-CLIP** for vision-language aerial video recognition (accepted by **T-MM**)!
 - This work explores the vision-language multi-modality contrastive learning paradigm for aerial video recognition. We propose a contrastive learning framework with **Multi-granularity Visual Prompt Co-operative information flow**, termed **MVPC-CLIP**. Our MVPC-CLIP can be a winner across all zero-shot, few-shot, and fully-supervised settings.
   
