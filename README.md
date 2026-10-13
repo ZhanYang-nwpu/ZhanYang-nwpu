@@ -20,6 +20,7 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 
 ### 💬Projects
 - 🚀 ……
+- 🚀 **TCMA** J-STARS'26 [[Paper](https://ieeexplore.ieee.org/abstract/document/11724583/)]
 - 🚀 **Point2Mask** T-GRS'26 [[Paper](https://ieeexplore.ieee.org/abstract/document/11683233)][[Code](https://github.com/GaoScience/Point2Mask)]
 - 🚀 **MVPC-CLIP** T-MM'26 [[Paper](https://ieeexplore.ieee.org/document/11420246)][[Code](https://github.com/ZhanYang-nwpu/MVPC-CLIP)]
 - 🚀 **ShipTraj-R1** PAKDD'26 [[Paper](https://link.springer.com/chapter/10.1007/978-981-92-1300-9_5)]  🌟Oral
