@@ -20,8 +20,8 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 
 ### 💬Projects
 - 🚀 ……
-- 🚀 **TCMA** J-STARS'26 [[Paper](https://ieeexplore.ieee.org/abstract/document/11724583/)]
-- 🚀 **Point2Mask** T-GRS'26 [[Paper](https://ieeexplore.ieee.org/abstract/document/11683233)][[Code](https://github.com/GaoScience/Point2Mask)]
+- 🚀 **TCMA** (**DVTMD**) J-STARS'26 [[Paper](https://ieeexplore.ieee.org/abstract/document/11724583/)]
+- 🚀 **Point2Mask** (**SIRSTD-Pixel**) T-GRS'26 [[Paper](https://ieeexplore.ieee.org/abstract/document/11683233)][[Code](https://github.com/GaoScience/Point2Mask)]
 - 🚀 **MVPC-CLIP** T-MM'26 [[Paper](https://ieeexplore.ieee.org/document/11420246)][[Code](https://github.com/ZhanYang-nwpu/MVPC-CLIP)]
 - 🚀 **ShipTraj-R1** PAKDD'26 [[Paper](https://link.springer.com/chapter/10.1007/978-981-92-1300-9_5)]  🌟Oral
 - 🚀 **UPTM-LLM** ASOC'25 [[Paper](https://www.sciencedirect.com/science/article/pii/S1568494625013122)]  🏆ESI highly cited (Top 1%) 🏆Top 1% paper in Scopus
