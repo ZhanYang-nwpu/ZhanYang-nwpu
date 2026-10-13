@@ -41,6 +41,10 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 
 🔥 **[2026/10]**: Propose the **TCMA** for drone cross-modal text-video retrieval and construct the **DVTMD** dataset (accepted by **J-STARS**)!
 
+
+🔥 **[2026/09]**: Propose the **Point-to-Mask** framework and construct the **SIRSTD-Pixel** dataset (accepted by **T-GRS**)!
+- This work explores the **infrared small target detection** for UAV low-altitude intelligence. We construct the **SIRSTD-Pixel** dataset with refined pixel-level annotations for systematic evaluation. A novel **Point-to-Mask** framework is devised to solve challenges of the infrared small target detection.
+
 🔥 **[2026/03]**: **UAVBench** and **UAVIT-1M** now is available at arXiv. (Project page: https://UAVBench.github.io/)
 
 🎉 **[2026/03]**: Invited to serve as the **lead guest editor** of the Future Transportation journal and host a special issue!
