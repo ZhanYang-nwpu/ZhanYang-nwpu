@@ -39,6 +39,9 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
 ### 🗞️Recent News
 🔥 **[……]**:
 
+🔥 **[2026/10]**: Propose the **TCMA** for drone cross-modal text-video retrieval and construct the **DVTMD** dataset (accepted by **J-STARS**)!
+- This work explores the **Drone Cross-Modal Text-Video Retrieval** for UAV low-altitude intelligence. A novel **TCMA** model is devised to solve challenges of the drone cross-modal text-video retrieval.
+
 🔥 **[2026/03]**: **UAVBench** and **UAVIT-1M** now is available at arXiv. (Project page: https://UAVBench.github.io/)
 
 🎉 **[2026/03]**: Invited to serve as the **lead guest editor** of the Future Transportation journal and host a special issue!
