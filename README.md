@@ -122,6 +122,7 @@ I am currently pursuing the Ph.D. degree with the **School of Artificial Intelli
   - Journal of King Saud University Computer and Information Sciences
   - IEEE Geoscience and Remote Sensing Letters (IEEE GRSL)
   - Pattern Recognition Letters (PRLETTERS)
+  - Image and Vision Computing (IMAVIS)
   - Journal of Supercomputing (J SUPERCOMPUT)
   - IET Intelligent Transport Systems (IET ITS)
   - International Journal of Data Science and Analytics (JSDA)
